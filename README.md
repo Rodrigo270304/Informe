@@ -22,7 +22,7 @@
 | Miembro                             |   Código   |
 | :---------------------------------- | :--------: |
 |  Araujo Ingunza Renzo José | u202113612 |
-|   |  |
+|  Mechan Chumpitaz Rodrigo Nicolas | U202114649 |
 |   |  |
 |   |  |
 |   |  |
